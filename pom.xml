@@ -15,9 +15,7 @@
 	<name>valaxy</name>
 	<description>Valaxy DevOps project for Spring Boot</description>
 
-	<properties>
-		<java.version>1.8</java.version>
-	</properties>
+
 <properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
